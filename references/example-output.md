@@ -4,27 +4,27 @@
 Malaysia MDAC checklist
 
 Personal Information
-- Name: WANG YI
-- Passport No.: EL5007402
-- Date of Birth: 23/04/1987
+- Name: TEST TRAVELER
+- Passport No.: X00000000
+- Date of Birth: 01/01/1990
 - Nationality / Citizenship: CHN / CHINA
-- Place of Birth: CHN / CHINA
+- Place of Birth: SAMPLE CITY
 - Sex: MALE
-- Date of Passport Expiry: 18/12/2033
-- Email Address: 239685@qq.com
-- Confirm Email Address: 239685@qq.com
-- Country / Region Code: 86
-- Mobile No.: 17666669423
+- Date of Passport Expiry: 01/01/2035
+- Email Address: example@example.com
+- Confirm Email Address: example@example.com
+- Country / Region Code: +00
+- Mobile No.: 0000000000
 
 Traveling Information
-- Date of Arrival: 18/03/2026
-- Date of Departure: 10/04/2026
-- Flight / Vessel / Transportation No.: AK857
+- Date of Arrival: 20/03/2026
+- Date of Departure: 25/03/2026
+- Flight / Vessel / Transportation No.: XX123
 - Mode of Travel: AIR
-- Last Port of Embarkation before Malaysia: THA / THAILAND
+- Last Port of Embarkation before Malaysia: SAMPLE ORIGIN
 - Accommodation of Stay: HOTEL / MOTEL / REST HOUSE
-- Address (In Malaysia): Hotel Indigo Kuala Lumpur
-- State: WP KUALA LUMPUR
-- Postcode: 50450
-- City: KUALA LUMPUR
+- Address (In Malaysia): Sample Hotel Address
+- State: SAMPLE STATE
+- Postcode: 00000
+- City: SAMPLE CITY
 ```
